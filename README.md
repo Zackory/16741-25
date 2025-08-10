@@ -1,8 +1,8 @@
-# 16-741: Mechanics of Manipulation (Fall 2024)
+# 16-741: Mechanics of Manipulation (Fall 2025)
 
 ## Course Info
 
-#### [Syllabus](https://docs.google.com/document/d/18LLbaWV4n5VTQ_BaUNIG60inzvl8auBHWeLrcKfUpIc/edit?usp=sharing)  
+#### [Syllabus](https://docs.google.com/document/d/1Ra-eJYID1UHVQEjCREWakrx9h5TW2WKno_sdeM9qrmg/edit?usp=sharing)  
 
 **Time**: Monday & Wednesday 11:00 AM - 12:20 PM  
 **Location**: NSH 1305  
