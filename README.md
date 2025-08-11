@@ -47,18 +47,18 @@ Modern Robotics: Mechanics, Planning, and Control, by Kevin M. Lynch and Frank C
 | **Week 4** <br> Wed, <br> Sept 17 | Planar Kinematics | **Deadline: Assignment 1** <br> **Assignment 2 released** <br> [Mechanics of Robotic Manipulation, Chapter 2.2](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 2.2](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
 | **Week 5** <br> Mon, <br> Sept 22 | Spatial Kinematics I - Plucker Coordinates | [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 3.3](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
 | **Week 5** <br> Wed, <br> Sept 24 | Spatial Kinematics II - Screw Coordinates | [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 3.3](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
-| **Week 6** <br> Mon, <br> Sept 29 | Constraint and  Reuleaux's Method | [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 2.5](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
+| **Week 6** <br> Mon, <br> Sept 29 | No class; Prof. Erickson is traveling <br> Constraint and  Reuleaux's Method | [Mechanics of Robotic Manipulation, Chapter 2.3](https://direct.mit.edu/books/monograph/3869/chapter/162858/Kinematics) <br> [Modern Robotics, Chapter 2.5](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf) |
 | **Week 6** <br> Wed, <br> Oct 1 | Representing Constraint | **Deadline: Assignment 2** <br> **Assignment 3 released** <br> [Mechanics of Robotic Manipulation, Chapter 3.3](https://direct.mit.edu/books/monograph/3869/chapter/162859/Kinematic-Representation) |
 | **Week 7** <br> Mon, <br> Oct 6 | Pick & Place and Path Planning | [Mechanics of Robotic Manipulation, Chapter 4.1](https://direct.mit.edu/books/monograph/3869/chapter/162860/Kinematic-Manipulation) <br> [Robotic Manipulation, Chapter 3](https://manipulation.csail.mit.edu/pick.html) |
 | **Week 7** <br> Wed, <br> Oct 8 | Kinematic Models of Contact | **Deadline: Project Proposal** <br> [Mechanics of Robotic Manipulation, Chapter 4.3](https://direct.mit.edu/books/monograph/3869/chapter/162860/Kinematic-Manipulation) |
 | **Week 8** <br> Mon, <br> Oct 13 | No class; Fall break |   |
 | **Week 8** <br> Wed, <br> Oct 15 | No class; Fall break |   |
-| **Week 9** <br> Mon, <br> Oct 20 | Manipulation in Clutter |   |
-| **Week 9** <br> Wed, <br> Oct 22 | Foundations of Statics | **Deadline: Assignment 3** <br> **Assignment 4 released** |
+| **Week 9** <br> Mon, <br> Oct 20 | No class; Prof. Erickson is traveling <br> Manipulation in Clutter |   |
+| **Week 9** <br> Wed, <br> Oct 22 | No class; Prof. Erickson is traveling <br> Foundations of Statics | **Deadline: Assignment 3** <br> **Assignment 4 released** |
 | **Week 10** <br> Mon, <br> Oct 27 | Polyhedral Convex Cones |   |
 | **Week 10** <br> Wed, <br> Oct 29 | Friction |   |
 | **Week 11** <br> Mon, <br> Nov 3 | Planar Sliding |   |
-| **Week 11** <br> Wed, <br> Nov 5 | No class; Prof. Erickson is traveling | **Deadline: Assignment 4** <br> **Assignment 5 released** |
+| **Week 11** <br> Wed, <br> Nov 5 |  | **Deadline: Assignment 4** <br> **Assignment 5 released** |
 | **Week 12** <br> Mon, <br> Nov 10 | Pushing |   |
 | **Week 12** <br> Wed, <br> Nov 12 | Grasps, Fixtures, Closures |   |
 | **Week 13** <br> Mon, <br> Nov 17 | Force Control |   |
